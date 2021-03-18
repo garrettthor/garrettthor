@@ -1,6 +1,8 @@
-### Hi there 👋
+### Howdy neighbor! 👋
 
+My name is Garrett Thor, and I am a software engineer.  I enjoy working with teams of diverse and wonderful coders to come together and solve problems and create wonderful new pieces of technology!
 
+I like videogames, cocktails, backpacking, and creating with friends!  Let's go!
 
 
 ## Github Stats
