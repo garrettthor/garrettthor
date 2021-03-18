@@ -3,9 +3,11 @@
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=garrettthor&show_icons=true&locale=en" align="center" width="40%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=garrettthor" align="center" width="40%"/>
-</div> 
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=garrettthor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+
 <!--
 **garrettthor/garrettthor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
