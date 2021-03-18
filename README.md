@@ -1,13 +1,20 @@
 ### Howdy neighbor! 👋
 
-My name is Garrett Thor, and I am a software engineer.  I enjoy working with teams of diverse and wonderful coders to come together and solve problems and create wonderful new pieces of technology!
+<h3>My name is Garrett Thor, and I'm a software engineer!</h3>
 
-I like videogames, cocktails, backpacking, and creating with friends!  Let's go!
+💻 I'm proficient with Modern JavaScript, Node.js, Express, React, MongoDB, CSS3, and HTML5.
+
+⚽️ I love leading and working with a team in pursuit of creative endeavors!
+
+🍸 I was a bar manager in a previous life.
+
 
 
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=garrettthor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+
 
 
 <!--
