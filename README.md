@@ -1,6 +1,6 @@
 ### Howdy neighbor! 👋
 
-<h3>My name is Garrett Thor, and I'm a software engineer!</h3>
+<h3>My name is Garrett Thor, and I'm a software engineer</h3>
 
 💻 I'm proficient with Modern JavaScript, Node.js, Express, React, MongoDB, CSS3, and HTML5.
 
