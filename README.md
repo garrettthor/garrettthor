@@ -8,6 +8,11 @@
 
 🍸 I was a bar manager in a previous life.
 
+Hello, and welcome!  Coding new and exciting experiences is my passion. I want to help our community thrive through elegant and thoughtful design, bringing life to business ideas and shining a light on amazing new concepts.
+ 
+I enjoy the pursuit of lofty goals, challenging myself to reach beyond what I thought was previously achievable. I enjoy working both as a leader and a team member and know the virtue of knowing which hat to wear and when. My background in managing a top-tier craft cocktail bar has taught me innumerable soft skills and how to achieve amazing things all while having a great time.
+
+When I’m not building or sharpening new skills, I enjoy backpacking, modern and retro video games, and exploring new culinary and cocktail experiences.
 
 
 ## Github Stats
