@@ -2,7 +2,7 @@
 
 <h3>My name is Garrett Thor, and I'm a software engineer</h3>
 
-💻 I'm proficient with Modern JavaScript, Node.js, Express, React, MongoDB, CSS3, and HTML5.
+💻 I work with JavaScript, Node.js, Express, React, MongoDB, CSS3, and HTML5.
 
 ⚽️ I love leading and working with a team in pursuit of creative endeavors!
 
